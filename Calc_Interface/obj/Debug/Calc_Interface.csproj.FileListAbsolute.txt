@@ -1,0 +1,19 @@
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\bin\Debug\Calc_Interface.exe.config
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\bin\Debug\Calc_Interface.exe
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\bin\Debug\Calc_Interface.pdb
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.Form1.resources
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.Properties.Resources.resources
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.csproj.GenerateResource.Cache
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.exe
+C:\Users\Luca.Silva\Desktop\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.pdb
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\bin\Debug\Calc_Interface.exe.config
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.exe
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.pdb
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\bin\Debug\Calc_Interface.exe
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\bin\Debug\Calc_Interface.pdb
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.Form1.resources
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Desktop\Calculadora de Conversão\Calc_Interface\Calc_Interface\obj\Debug\Calc_Interface.Criptografia.resources
